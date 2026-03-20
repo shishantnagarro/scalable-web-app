@@ -1,0 +1,12 @@
+C:\Users\shishantdixit\OneDrive - Nagarro\Projects\Advance Assignment AWS\aws-advance-assignment-starter\ScheduledCleanupFunction\bin\Debug\net8.0\ScheduledCleanupFunction.deps.json
+C:\Users\shishantdixit\OneDrive - Nagarro\Projects\Advance Assignment AWS\aws-advance-assignment-starter\ScheduledCleanupFunction\bin\Debug\net8.0\ScheduledCleanupFunction.dll
+C:\Users\shishantdixit\OneDrive - Nagarro\Projects\Advance Assignment AWS\aws-advance-assignment-starter\ScheduledCleanupFunction\bin\Debug\net8.0\ScheduledCleanupFunction.pdb
+C:\Users\shishantdixit\OneDrive - Nagarro\Projects\Advance Assignment AWS\aws-advance-assignment-starter\ScheduledCleanupFunction\obj\Debug\net8.0\ScheduledCleanupFunction.csproj.AssemblyReference.cache
+C:\Users\shishantdixit\OneDrive - Nagarro\Projects\Advance Assignment AWS\aws-advance-assignment-starter\ScheduledCleanupFunction\obj\Debug\net8.0\ScheduledCleanupFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shishantdixit\OneDrive - Nagarro\Projects\Advance Assignment AWS\aws-advance-assignment-starter\ScheduledCleanupFunction\obj\Debug\net8.0\ScheduledCleanupFunction.AssemblyInfoInputs.cache
+C:\Users\shishantdixit\OneDrive - Nagarro\Projects\Advance Assignment AWS\aws-advance-assignment-starter\ScheduledCleanupFunction\obj\Debug\net8.0\ScheduledCleanupFunction.AssemblyInfo.cs
+C:\Users\shishantdixit\OneDrive - Nagarro\Projects\Advance Assignment AWS\aws-advance-assignment-starter\ScheduledCleanupFunction\obj\Debug\net8.0\ScheduledCleanupFunction.csproj.CoreCompileInputs.cache
+C:\Users\shishantdixit\OneDrive - Nagarro\Projects\Advance Assignment AWS\aws-advance-assignment-starter\ScheduledCleanupFunction\obj\Debug\net8.0\ScheduledCleanupFunction.dll
+C:\Users\shishantdixit\OneDrive - Nagarro\Projects\Advance Assignment AWS\aws-advance-assignment-starter\ScheduledCleanupFunction\obj\Debug\net8.0\refint\ScheduledCleanupFunction.dll
+C:\Users\shishantdixit\OneDrive - Nagarro\Projects\Advance Assignment AWS\aws-advance-assignment-starter\ScheduledCleanupFunction\obj\Debug\net8.0\ScheduledCleanupFunction.pdb
+C:\Users\shishantdixit\OneDrive - Nagarro\Projects\Advance Assignment AWS\aws-advance-assignment-starter\ScheduledCleanupFunction\obj\Debug\net8.0\ref\ScheduledCleanupFunction.dll

@@ -1,0 +1,5 @@
+C:\Users\shishantdixit\OneDrive - Nagarro\Projects\Advance Assignment AWS\aws-advance-assignment-starter\SNSProcessorFunction\obj\Debug\net10.0\SNSProcessorFunction.csproj.AssemblyReference.cache
+C:\Users\shishantdixit\OneDrive - Nagarro\Projects\Advance Assignment AWS\aws-advance-assignment-starter\SNSProcessorFunction\obj\Debug\net10.0\SNSProcessorFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shishantdixit\OneDrive - Nagarro\Projects\Advance Assignment AWS\aws-advance-assignment-starter\SNSProcessorFunction\obj\Debug\net10.0\SNSProcessorFunction.AssemblyInfoInputs.cache
+C:\Users\shishantdixit\OneDrive - Nagarro\Projects\Advance Assignment AWS\aws-advance-assignment-starter\SNSProcessorFunction\obj\Debug\net10.0\SNSProcessorFunction.AssemblyInfo.cs
+C:\Users\shishantdixit\OneDrive - Nagarro\Projects\Advance Assignment AWS\aws-advance-assignment-starter\SNSProcessorFunction\obj\Debug\net10.0\SNSProcessorFunction.csproj.CoreCompileInputs.cache

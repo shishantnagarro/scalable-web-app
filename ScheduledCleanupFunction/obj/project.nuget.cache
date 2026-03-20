@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "ITRpRog4v4k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shishantdixit\\OneDrive - Nagarro\\Projects\\Advance Assignment AWS\\aws-advance-assignment-starter\\ScheduledCleanupFunction\\ScheduledCleanupFunction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shishantdixit\\.nuget\\packages\\amazon.lambda.core\\2.8.0\\amazon.lambda.core.2.8.0.nupkg.sha512",
+    "C:\\Users\\shishantdixit\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.5\\amazon.lambda.serialization.systemtextjson.2.4.5.nupkg.sha512",
+    "C:\\Users\\shishantdixit\\.nuget\\packages\\amazon.lambda.snsevents\\2.1.1\\amazon.lambda.snsevents.2.1.1.nupkg.sha512",
+    "C:\\Users\\shishantdixit\\.nuget\\packages\\awssdk.core\\3.7.301.7\\awssdk.core.3.7.301.7.nupkg.sha512",
+    "C:\\Users\\shishantdixit\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.300.37\\awssdk.dynamodbv2.3.7.300.37.nupkg.sha512",
+    "C:\\Users\\shishantdixit\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\shishantdixit\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\shishantdixit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
