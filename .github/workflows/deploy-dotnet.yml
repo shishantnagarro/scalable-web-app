@@ -9,7 +9,7 @@ on:
 env:
   AWS_REGION: us-east-1
   EB_APPLICATION_NAME: scalable-web-app
-  EB_ENVIRONMENT_NAME: scalable-web-app-env
+  EB_ENVIRONMENT_NAME: Scalable-web-app-env-adv
 
 jobs:
   test:
